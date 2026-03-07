@@ -48,7 +48,7 @@ Hospital leadership observed that patients across Hyderabad facilities were bein
 
 ### Dashboard 1 — Patient & Clinical Analytics
 
-![Patient Overview](images/patient_overview.png)
+![Patient Overview](images/dashboard1.png)
 
 **Age Group Distribution**
 

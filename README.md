@@ -112,8 +112,3 @@ Sertraline leads at 36 prescriptions, followed by Ranitidine (33) and a tight cl
 - Analyze whether specific medication combinations correlate with better or worse recovery outcomes across treatment types
 - Explore the April emergency admission spike further — may reflect seasonal disease patterns worth proactive operational planning for
 
----
-
-## About
-
-Shows how patient admission data reveals key outcome patterns across Hyderabad hospitals — identifying high-risk diseases, treatment effectiveness, and hospital revenue gaps through SQL data cleaning and Tableau dashboards.

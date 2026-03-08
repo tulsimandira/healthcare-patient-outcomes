@@ -1,9 +1,9 @@
 # Healthcare Patient Outcomes Analysis
 
-🔗 **Live Interactive Dashboards (Tableau Public):**  
 🔗 **[View Live Dashboards](https://public.tableau.com/views/PATIENT_OUTCOMES/PatientOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 🔗 **[View Hex Notebook](https://app.hex.tech/0199335d-610a-7001-9c7d-fb84db58160d/hex/Claude-patient-outcomes-032cHPzuG1Dvp83g47YVpT/draft/logic)**
+
 ---
 
 ## Executive Summary

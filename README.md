@@ -49,7 +49,7 @@ Hospital leadership observed that patients across Hyderabad facilities were bein
 
 ### Dashboard 1 — Patient & Clinical Analytics
 
-![Patient Overview](images/dashboard_1.png)
+![Patient Overview](images/dashboard1.png)
 
 **Age Group Distribution**
 
@@ -67,7 +67,7 @@ Every disease in the top 10 exceeds the 20% benchmark reference line — the hig
 
 ### Dashboard 2 — Clinical Outcomes
 
-![Clinical Outcomes](images/dashboard_2.png)
+![Clinical Outcomes](images/dashboard2.png)
 
 **Treatment Outcomes**
 
@@ -85,7 +85,7 @@ Dr. Priya Rao (Neurology) achieves 100% recovery — 15 percentage points above 
 
 ### Dashboard 3 — Hospital Operations
 
-![Hospital Operations](images/dashboard_3.png)
+![Hospital Operations](images/dashboard3.png)
 
 **Hospital Revenue & Payment Status**
 

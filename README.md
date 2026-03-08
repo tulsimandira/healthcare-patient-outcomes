@@ -1,7 +1,7 @@
 # Healthcare Patient Outcomes Analysis
 
 🔗 **Live Interactive Dashboards (Tableau Public):**  
-[View Dashboards](#) ← replace with your Tableau Public URL after publishing
+[View Dashboards](#https://public.tableau.com/app/profile/tulsi.mandira/viz/PATIENT_OUTCOME/PatientOverview?publish=yes) ← replace with your Tableau Public URL after publishing
 
 ---
 

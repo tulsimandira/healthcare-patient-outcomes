@@ -85,7 +85,7 @@ Dr. Priya Rao (Neurology) achieves 100% recovery — 15 percentage points above 
 
 ### Dashboard 3 — Hospital Operations
 
-![Hospital Operations](images/dashboard3.png)
+![Hospital Operations](images/dashboard4.png)
 
 **Hospital Revenue & Payment Status**
 

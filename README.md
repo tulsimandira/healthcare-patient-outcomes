@@ -4,7 +4,7 @@
 
 🔗 **[View Hex Notebook](https://app.hex.tech/0199335d-610a-7001-9c7d-fb84db58160d/hex/Claude-patient-outcomes-032cHPzuG1Dvp83g47YVpT/draft/logic)**
 
-## Executive Summary:
+### Executive Summary:
 
 Readmission rates across Hyderabad hospitals are consistently above the 20% industry benchmark, and clinical teams had no unified view to understand why. Using SQL to clean and model 8 interconnected tables and Tableau to build three interactive dashboards, I surfaced where patients are struggling post-discharge, which treatments are underperforming, and where hospital revenue is sitting uncollected. After identifying that every top disease exceeds the readmission benchmark and that severe patients are being discharged too early, I recommend that clinical and operations leadership implements the following:
 

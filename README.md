@@ -14,7 +14,6 @@ Readmission rates across Hyderabad hospitals are consistently above the 20% indu
 4. Monthly billing reconciliation for hospitals with pending ratios above 30%
 5. Cross-departmental knowledge-sharing led by Neurology and Urology to lift lower-performing departments
 
----
 
 ### Business Problem:
 
@@ -22,7 +21,7 @@ Patient readmissions are a direct signal of care quality — and a direct cost t
 
 [![Patient Overview Dashboard](images/patient_outcomes.png)](#)
 
----
+
 
 ### Methodology:
 * Exploratory Data Analysis (EDA)
@@ -31,7 +30,7 @@ Patient readmissions are a direct signal of care quality — and a direct cost t
 * Healthcare KPI Analysis
 * Interactive Dashboard Design (Tableau)
 
----
+
 
 ### Skills:
 * SQL (CTEs, CASE statements, subqueries, window functions)
@@ -40,7 +39,7 @@ Patient readmissions are a direct signal of care quality — and a direct cost t
 * Data Modeling (Star Schema — 8 tables)
 * HEX Data Science Notebook
 
----
+
 
 ### Results & Business Recommendations:
 
@@ -64,7 +63,7 @@ Preventive treatment leads recovery at 70.83% but shows a binary pattern — alm
 
 KIMS Hospitals leads total revenue at ₹13.8M with a manageable 22% pending ratio. L V Prasad Eye Institute is the most concerning — roughly 41% of its revenue is uncollected, meaning ₹3.7M is sitting unrealized. Vijaya Diagnostic Centre carries a 31% pending ratio. Any hospital above 30% pending needs immediate billing reconciliation. Sertraline leads prescriptions at 36 — the presence of an antidepressant at the top alongside high chronic disease readmission rates may warrant a review of mental health co-morbidity protocols.
 
----
+
 
 ### Business Recommendations:
 
@@ -74,7 +73,7 @@ KIMS Hospitals leads total revenue at ₹13.8M with a manageable 22% pending rat
 4. Launch monthly billing reconciliation targeting L V Prasad Eye Institute and Vijaya Diagnostic Centre first
 5. Document Dr. Priya Rao's Neurology protocols and share across Radiology and Dermatology departments which cluster at the bottom of recovery rates
 
----
+
 
 ### Next Steps:
 

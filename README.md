@@ -4,6 +4,7 @@
 
 🔗 **[View Hex Notebook](https://app.hex.tech/0199335d-610a-7001-9c7d-fb84db58160d/hex/Claude-patient-outcomes-032cHPzuG1Dvp83g47YVpT/draft/logic)**
 
+
 ### Executive Summary:
 
 Readmission rates across Hyderabad hospitals are consistently above the 20% industry benchmark, and clinical teams had no unified view to understand why. Using SQL to clean and model 8 interconnected tables and Tableau to build three interactive dashboards, I surfaced where patients are struggling post-discharge, which treatments are underperforming, and where hospital revenue is sitting uncollected. After identifying that every top disease exceeds the readmission benchmark and that severe patients are being discharged too early, I recommend that clinical and operations leadership implements the following:
@@ -22,7 +23,6 @@ Patient readmissions are a direct signal of care quality — and a direct cost t
 [![Patient Overview Dashboard](images/patient_outcomes.png)](#)
 
 
-
 ### Methodology:
 * Exploratory Data Analysis (EDA)
 * SQL Data Cleaning (8 cleaned views in HEX)
@@ -31,14 +31,12 @@ Patient readmissions are a direct signal of care quality — and a direct cost t
 * Interactive Dashboard Design (Tableau)
 
 
-
 ### Skills:
 * SQL (CTEs, CASE statements, subqueries, window functions)
 * Data Visualization (Tableau Public)
 * Data Wrangling & Cleaning
 * Data Modeling (Star Schema — 8 tables)
 * HEX Data Science Notebook
-
 
 
 ### Results & Business Recommendations:
@@ -64,7 +62,6 @@ Preventive treatment leads recovery at 70.83% but shows a binary pattern — alm
 KIMS Hospitals leads total revenue at ₹13.8M with a manageable 22% pending ratio. L V Prasad Eye Institute is the most concerning — roughly 41% of its revenue is uncollected, meaning ₹3.7M is sitting unrealized. Vijaya Diagnostic Centre carries a 31% pending ratio. Any hospital above 30% pending needs immediate billing reconciliation. Sertraline leads prescriptions at 36 — the presence of an antidepressant at the top alongside high chronic disease readmission rates may warrant a review of mental health co-morbidity protocols.
 
 
-
 ### Business Recommendations:
 
 1. Implement structured post-discharge programs for Digestive, Diabetes, and Heart Failure patients — follow-up calls and medication checks within 7 days of discharge
@@ -72,7 +69,6 @@ KIMS Hospitals leads total revenue at ₹13.8M with a manageable 22% pending rat
 3. Standardize Surgical and Preventive protocols across all hospitals — Diagnostic treatment has the most room for immediate improvement
 4. Launch monthly billing reconciliation targeting L V Prasad Eye Institute and Vijaya Diagnostic Centre first
 5. Document Dr. Priya Rao's Neurology protocols and share across Radiology and Dermatology departments which cluster at the bottom of recovery rates
-
 
 
 ### Next Steps:

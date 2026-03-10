@@ -57,7 +57,7 @@ Preventive treatment leads recovery at 70.83% but shows a binary pattern — alm
 
 **Dashboard 3 — Hospital Operations**
 
-[![Hospital Operations](images/dashboard3.png)](#)
+[![Hospital Operations](images/dashboard4.png)](#)
 
 KIMS Hospitals leads total revenue at ₹13.8M with a manageable 22% pending ratio. L V Prasad Eye Institute is the most concerning — roughly 41% of its revenue is uncollected, meaning ₹3.7M is sitting unrealized. Vijaya Diagnostic Centre carries a 31% pending ratio. Any hospital above 30% pending needs immediate billing reconciliation. Sertraline leads prescriptions at 36 — the presence of an antidepressant at the top alongside high chronic disease readmission rates may warrant a review of mental health co-morbidity protocols.
 

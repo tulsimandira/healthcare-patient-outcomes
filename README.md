@@ -20,7 +20,7 @@ Readmission rates across Hyderabad hospitals are consistently above the 20% indu
 
 Patient readmissions are a direct signal of care quality — and a direct cost to hospitals. Leadership observed that patients were returning at rates consistently above the 20% benchmark across facilities, while clinical teams had no single view to explain why. How do we identify which diseases, treatment types, and discharge patterns are driving poor outcomes — and where billing gaps are compounding the problem across 30 hospitals?
 
-[![Patient Overview Dashboard](images/patient_outcomes.png)](#)
+[![Patient Overview Dashboard](images/patient_outcome_diagram.png)](#)
 
 
 ### Methodology:
